@@ -11,7 +11,7 @@ How to do: click the "star" logo on the upper right corner for supporting, and f
 --------------------------------------------------------------
 Edited by Wenkai (wenkai.guan@marquette.edu), instructed by Cris (cristinel.ababei@marquette.edu);
 --------------------------------------------------------------
--------------------------------------------------------------=
+--------------------------------------------------------------
 This is one homework from Computer Architecture Course instructed by Cris (cristinel.ababei@marquette.edu);
 
 
