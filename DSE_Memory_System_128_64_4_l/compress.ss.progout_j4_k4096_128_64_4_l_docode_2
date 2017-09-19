@@ -1,0 +1,291 @@
+SPEC 129.compress harness
+Initial File Size:100	Start character:q
+The starting size is: 102
+The compressed size is: 105
+The compressed/uncompressed size is: 102
+Files both have length 102
+First character (u) and Last Character (
+) match. 
+The starting size is: 105
+The compressed size is: 106
+The compressed/uncompressed size is: 105
+Files both have length 105
+First character (u) and Last Character (
+) match. 
+The starting size is: 109
+The compressed size is: 109
+The compressed/uncompressed size is: 109
+Files both have length 109
+First character (u) and Last Character (
+) match. 
+The starting size is: 114
+The compressed size is: 110
+The compressed/uncompressed size is: 114
+Files both have length 114
+First character (u) and Last Character (
+) match. 
+The starting size is: 120
+The compressed size is: 114
+The compressed/uncompressed size is: 120
+Files both have length 120
+First character (u) and Last Character (
+) match. 
+The starting size is: 127
+The compressed size is: 115
+The compressed/uncompressed size is: 127
+Files both have length 127
+First character (u) and Last Character (
+) match. 
+The starting size is: 135
+The compressed size is: 118
+The compressed/uncompressed size is: 135
+Files both have length 135
+First character (u) and Last Character (
+) match. 
+The starting size is: 144
+The compressed size is: 119
+The compressed/uncompressed size is: 144
+Files both have length 144
+First character (u) and Last Character (
+) match. 
+The starting size is: 154
+The compressed size is: 123
+The compressed/uncompressed size is: 154
+Files both have length 154
+First character (u) and Last Character (
+) match. 
+The starting size is: 165
+The compressed size is: 124
+The compressed/uncompressed size is: 165
+Files both have length 165
+First character (u) and Last Character (
+) match. 
+The starting size is: 177
+The compressed size is: 127
+The compressed/uncompressed size is: 177
+Files both have length 177
+First character (u) and Last Character (
+) match. 
+The starting size is: 190
+The compressed size is: 128
+The compressed/uncompressed size is: 190
+Files both have length 190
+First character (u) and Last Character (
+) match. 
+The starting size is: 204
+The compressed size is: 132
+The compressed/uncompressed size is: 204
+Files both have length 204
+First character (u) and Last Character (
+) match. 
+The starting size is: 219
+The compressed size is: 133
+The compressed/uncompressed size is: 219
+Files both have length 219
+First character (u) and Last Character (
+) match. 
+The starting size is: 235
+The compressed size is: 136
+The compressed/uncompressed size is: 235
+Files both have length 235
+First character (u) and Last Character (
+) match. 
+The starting size is: 252
+The compressed size is: 137
+The compressed/uncompressed size is: 252
+Files both have length 252
+First character (u) and Last Character (
+) match. 
+The starting size is: 270
+The compressed size is: 141
+The compressed/uncompressed size is: 270
+Files both have length 270
+First character (u) and Last Character (
+) match. 
+The starting size is: 289
+The compressed size is: 142
+The compressed/uncompressed size is: 289
+Files both have length 289
+First character (u) and Last Character (
+) match. 
+The starting size is: 309
+The compressed size is: 145
+The compressed/uncompressed size is: 309
+Files both have length 309
+First character (u) and Last Character (
+) match. 
+The starting size is: 330
+The compressed size is: 146
+The compressed/uncompressed size is: 330
+Files both have length 330
+First character (u) and Last Character (
+) match. 
+The starting size is: 352
+The compressed size is: 150
+The compressed/uncompressed size is: 352
+Files both have length 352
+First character (u) and Last Character (
+) match. 
+The starting size is: 375
+The compressed size is: 151
+The compressed/uncompressed size is: 375
+Files both have length 375
+First character (u) and Last Character (
+) match. 
+The starting size is: 399
+The compressed size is: 154
+The compressed/uncompressed size is: 399
+Files both have length 399
+First character (u) and Last Character (
+) match. 
+The starting size is: 424
+The compressed size is: 155
+The compressed/uncompressed size is: 424
+Files both have length 424
+First character (u) and Last Character (
+) match. 
+The starting size is: 450
+The compressed size is: 159
+The compressed/uncompressed size is: 450
+Files both have length 450
+First character (u) and Last Character (
+) match. 
+
+Cache Parameters:
+  Size in bytes: 16384
+  Number of sets: 512
+  Associativity: 4
+  Block Size (bytes): 8
+
+Access Time: 9.27925e-09
+Cycle Time:  1.09081e-08
+
+Best Ndwl (L1): 8
+Best Ndbl (L1): 1
+Best Nspd (L1): 1
+Best Ntwl (L1): 1
+Best Ntbl (L1): 4
+Best Ntspd (L1): 1
+
+Time Components:
+ data side (with Output driver) (ns): 8.44162
+ tag side (ns): 8.55667
+ decode_data (ns): 5.29318
+ wordline_data (ns): 1.03507
+ bitline_data (ns): 0.810785
+ sense_amp_data (ns): 0.58
+ decode_tag (ns): 2.37065
+ wordline_tag (ns): 1.36749
+ bitline_tag (ns): 0.158246
+ sense_amp_tag (ns): 0.26
+ compare (ns): 2.42991
+ mux driver (ns): 1.6125
+ sel inverter (ns): 0.357877
+ data output driver (ns): 0.722579
+ total data path (with output driver) (ns): 7.71904
+ total tag path is set assoc (ns): 8.55667
+ precharge time (ns): 1.6289
+
+Cache Parameters:
+  Size in bytes: 16384
+  Number of sets: 512
+  Associativity: 1
+  Block Size (bytes): 32
+
+Access Time: 6.07496e-09
+Cycle Time:  7.99836e-09
+
+Best Ndwl (L1): 2
+Best Ndbl (L1): 2
+Best Nspd (L1): 1
+Best Ntwl (L1): 1
+Best Ntbl (L1): 2
+Best Ntspd (L1): 2
+
+Time Components:
+ data side (with Output driver) (ns): 6.07496
+ tag side (ns): 6.05737
+ decode_data (ns): 2.92313
+ wordline_data (ns): 1.32956
+ bitline_data (ns): 0.452976
+ sense_amp_data (ns): 0.58
+ decode_tag (ns): 1.84499
+ wordline_tag (ns): 0.825016
+ bitline_tag (ns): 0.252886
+ sense_amp_tag (ns): 0.26
+ compare (ns): 2.30022
+ valid signal driver (ns): 0.574251
+ data output driver (ns): 0.789293
+ total data path (with output driver) (ns): 5.28567
+ total tag path is dm (ns): 6.05737
+ precharge time (ns): 1.92339
+
+Cache Parameters:
+  Size in bytes: 32768
+  Number of sets: 128
+  Associativity: 4
+  Block Size (bytes): 64
+
+Access Time: 1.05484e-08
+Cycle Time:  1.30059e-08
+
+Best Ndwl (L1): 4
+Best Ndbl (L1): 1
+Best Nspd (L1): 1
+Best Ntwl (L1): 1
+Best Ntbl (L1): 2
+Best Ntspd (L1): 1
+
+Time Components:
+ data side (with Output driver) (ns): 6.98
+ tag side (ns): 8.63646
+ decode_data (ns): 2.55064
+ wordline_data (ns): 1.86368
+ bitline_data (ns): 0.0737096
+ sense_amp_data (ns): 0.58
+ decode_tag (ns): 1.80369
+ wordline_tag (ns): 1.24021
+ bitline_tag (ns): -0.0181278
+ sense_amp_tag (ns): 0.26
+ compare (ns): 2.23669
+ mux driver (ns): 2.77454
+ sel inverter (ns): 0.339451
+ data output driver (ns): 1.91197
+ total data path (with output driver) (ns): 5.06803
+ total tag path is set assoc (ns): 8.63646
+ precharge time (ns): 2.45751
+
+Cache Parameters:
+  Size in bytes: 262144
+  Number of sets: 1024
+  Associativity: 4
+  Block Size (bytes): 64
+
+Access Time: 1.44948e-08
+Cycle Time:  1.76863e-08
+
+Best Ndwl (L1): 2
+Best Ndbl (L1): 2
+Best Nspd (L1): 1
+Best Ntwl (L1): 1
+Best Ntbl (L1): 4
+Best Ntspd (L1): 1
+
+Time Components:
+ data side (with Output driver) (ns): 11.3269
+ tag side (ns): 12.2049
+ decode_data (ns): 4.99158
+ wordline_data (ns): 2.59771
+ bitline_data (ns): 0.867749
+ sense_amp_data (ns): 0.58
+ decode_tag (ns): 4.52586
+ wordline_tag (ns): 1.24192
+ bitline_tag (ns): 0.46158
+ sense_amp_tag (ns): 0.26
+ compare (ns): 2.17054
+ mux driver (ns): 3.21212
+ sel inverter (ns): 0.332908
+ data output driver (ns): 2.28987
+ total data path (with output driver) (ns): 9.03704
+ total tag path is set assoc (ns): 12.2049
+ precharge time (ns): 3.19154
