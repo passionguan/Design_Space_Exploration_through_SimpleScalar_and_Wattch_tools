@@ -14,6 +14,9 @@ Edited by Wenkai (wenkai.guan@marquette.edu), instructed by Cris (cristinel.abab
 --------------------------------------------------------------
 This is one homework from Computer Architecture Course instructed by Cris (cristinel.ababei@marquette.edu);
 
+To learn about SimpleScalar and Wattch tools.
+Learn how to find a suitable superscalar architecture for a specific benchmark through so called Design
+Space Exploration (DSE). This project should provide insights into superscalar architectures.
 
 
 
